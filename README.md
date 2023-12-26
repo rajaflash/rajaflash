@@ -3,7 +3,7 @@
 - 👨‍💻 currently working as Node Js developer in Avasoft, Chennai.
 -  Experience - arround 3 years
 - 📲 +919629968068, Gmail: rajaflash98@gmail.com
-- Tech stacks - NODE JS - Typescript, Oracle DB, PostgreSQL, AWS
+- Tech stacks - NODE JS - Typescript, Golang (basic - Intermediate level), Oracle DB, PostgreSQL, AWS
 
 <!---
 rajaflash/rajaflash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
